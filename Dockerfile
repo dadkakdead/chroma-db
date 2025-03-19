@@ -1,5 +1,5 @@
 # Dockerfile for Chroma DB
-FROM chromadb/chroma:0.6.3
+FROM chromadb/chroma:0.4.22
 
 # Expose the default Chroma port
 EXPOSE 8000
